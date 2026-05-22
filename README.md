@@ -46,5 +46,4 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekolon&theme=radical" alt="GitHub Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shekolon&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shekolon&show_icons=true&theme=radical" alt="GitHub Readme Stats" />
 </p>
