@@ -87,18 +87,24 @@ Windows • PowerShell
 
 # 📈 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=novvyim&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- Используем только стабильные сервисы -->
+<!-- GitHub Stats (с кэшированием) -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=novvyim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvyim&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Языки -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvyim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true"/>
+<!-- Streak (заменяем на альтернативу, если не работает) -->
+<!-- Используем тот же сервис, но добавляем параметр для обновления -->
+<img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
+<!-- Детальный профиль (работает стабильно) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novvyim&theme=tokyonight"/>
 
 </div>
