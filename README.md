@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,35:A855F7,70:EC4899,100:06B6D4&text=novvyim&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -159,4 +158,3 @@ WM / DE     KDE Plasma
 <img src="https://komarev.com/ghpvc/?username=novvyim&style=for-the-badge&color=7C3AED"/>
 
 </div>
-````
