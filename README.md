@@ -46,8 +46,6 @@
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvyim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
