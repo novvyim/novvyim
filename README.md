@@ -128,9 +128,13 @@ WM / DE     Hyprland + DriftWM
 # 🎯 Current Goals
 
 ✨ Build beautiful desktop software
+
 🚀 Create modern Java applications
+
 🎨 Improve UI/UX design
+
 🛠 Develop open-source tools
+
 🐧 Master the Linux ecosystem
 
 </div>
