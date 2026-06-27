@@ -62,7 +62,6 @@ Editor:      VS Code
 ## 🌌 Nebby Builder
 
 Modern Modrinth modpack builder.
-
 Java • Desktop • Modrinth API
 
 </td>
@@ -72,7 +71,6 @@ Java • Desktop • Modrinth API
 ## ⚙️ Novv11
 
 Custom Windows build focused on performance and aesthetics.
-
 Windows • PowerShell
 
 </td>
@@ -128,13 +126,9 @@ WM / DE     Hyprland + DriftWM
 # 🎯 Current Goals
 
 ✨ Build beautiful desktop software
-
 🚀 Create modern Java applications
-
 🎨 Improve UI/UX design
-
 🛠 Develop open-source tools
-
 🐧 Master the Linux ecosystem
 
 </div>
