@@ -101,10 +101,6 @@ Windows • PowerShell
 <!-- Streak (заменяем на альтернативу, если не работает) -->
 <!-- Используем тот же сервис, но добавляем параметр для обновления -->
 <img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<br><br>
-
-<!-- Детальный профиль (работает стабильно) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novvyim&theme=tokyonight"/>
 
 </div>
