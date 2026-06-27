@@ -50,10 +50,6 @@
 
 <img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novvyim&theme=tokyonight"/>
-
 </div>
 
 ---
