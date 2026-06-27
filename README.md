@@ -2,48 +2,54 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,35:A855F7,70:EC4899,100:06B6D4&text=novvyim&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# Full-Stack Developer • UI Designer • Java Modding
+# Full-Stack Developer • UI Designer • Linux Enthusiast
 
-Building modern interfaces, backend services and desktop applications.
-
-Creating beautiful experiences with minimalistic design.
+Building modern software, beautiful interfaces and open-source projects.
 
 <p>
-  <a href="https://github.com/novvyim">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
-  <a href="https://t.me/novvyim">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+<a href="https://github.com/novvyim">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://t.me/novvyim">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 💫 About
+<div align="center">
+
+# 💫 About Me
 
 ```yaml
 Name:        novvyim
 Role:        Full-Stack Developer
-Focus:       UI • Backend • Desktop • Game Development
-Languages:   Java, JavaScript, C++, Python
-OS:          NixOS / Novv11
+Focus:       Java • Backend • Linux • UI/UX
+Languages:   Java, JavaScript, HTML, CSS
+OS:          NixOS
 Editor:      VS Code
 ```
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,nodejs,html,css,flutter,dart,docker,git,linux,nix,vscode,github&theme=dark"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+# ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,docker,linux,nix,bash,vscode&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
 
 # 🚀 Featured Projects
 
@@ -51,9 +57,9 @@ Editor:      VS Code
 
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
-### 🌌 Nebby Builder
+## 🌌 Nebby Builder
 
 Modern Modrinth modpack builder.
 
@@ -61,9 +67,9 @@ Java • Desktop • Modrinth API
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-### ⚙️ Novv11
+## ⚙️ Novv11
 
 Custom Windows build focused on performance and aesthetics.
 
@@ -73,61 +79,35 @@ Windows • PowerShell
 
 </tr>
 
-<tr>
-
-<td width="50%">
-
-### 🧪 Necesse Mods
-
-Java game modding.
-
-Items, mobs, structures and mechanics.
-
-</td>
-
-<td width="50%">
-
-### 📱 Montel
-
-Beautiful Flutter application built with Material 3.
-
-Flutter • Dart
-
-</td>
-
-</tr>
-
 </table>
+
+</div>
 
 ---
 
-# 📈 GitHub Analytics
-
 <div align="center">
+
+# 📈 GitHub Analytics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=novvyim&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvyim&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novvyim&theme=tokyonight"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 # 🖥 Workspace
 
@@ -136,24 +116,34 @@ OS          NixOS
 Editor      VS Code
 Terminal    Kitty
 Shell       Fish
-WM / DE     KDE Plasma
+WM / DE     Hyprland + DriftWM
 ```
 
----
-
-# 🎯 Current Goals
-
-- Build beautiful desktop software
-- Create high quality Java projects
-- Improve UI/UX skills
-- Develop open-source tools
-- Learn low-level programming
+</div>
 
 ---
 
 <div align="center">
 
-### "Design is how it works."
+# 🎯 Current Goals
+
+✨ Build beautiful desktop software
+
+🚀 Create modern Java applications
+
+🎨 Improve UI/UX design
+
+🛠 Develop open-source tools
+
+🐧 Master the Linux ecosystem
+
+</div>
+
+---
+
+<div align="center">
+
+### "Design is not just how it looks — it's how it works."
 
 <img src="https://komarev.com/ghpvc/?username=novvyim&style=for-the-badge&color=7C3AED"/>
 
