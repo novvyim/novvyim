@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,35:A855F7,70:EC4899,100:06B6D4&text=novvyim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,35:A855F7,70:EC4899,100:06B6D4&text=novvyim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header"/>
 
 # Full-Stack Developer • UI Designer • Linux Enthusiast
 
@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,docker,linux,nix,bash,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,docker,linux,nix,bash,vscode&theme=dark" alt="Tech Stack"/>
 
 </div>
 
@@ -42,11 +42,11 @@
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=novvyim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=novvyim&show_icons=true&theme=tokyonight&hide_border=true&_=1" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvyim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvyim&layout=compact&theme=tokyonight&hide_border=true&_=1" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&_=1" alt="GitHub Streak"/>
 
 </div>
 
@@ -56,6 +56,6 @@
 
 ### "Design is not just how it looks — it's how it works."
 
-<img src="https://komarev.com/ghpvc/?username=novvyim&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=novvyim&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
 
 </div>
