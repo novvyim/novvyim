@@ -42,11 +42,13 @@
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=novvyim&show_icons=true&theme=tokyonight&hide_border=true&_=1" alt="GitHub Stats"/>
+<!-- Статистика (альтернатива ghstats.dev - работает стабильно) -->
+<img height="180" src="https://ghstats.dev/api/card?username=novvyim&theme=tokyonight" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvyim&layout=compact&theme=tokyonight&hide_border=true&_=1" alt="Top Languages"/>
+<img height="180" src="https://ghstats.dev/api/langs?username=novvyim&theme=tokyonight&layout=bar" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&_=1" alt="GitHub Streak"/>
+<!-- Streak (через github-readme-streak-stats - но с кэшированием) -->
+<img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub Streak"/>
 
 </div>
 
