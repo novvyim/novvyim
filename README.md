@@ -42,11 +42,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- Статистика (альтернатива ghstats.dev - работает стабильно) -->
-<img height="180" src="https://ghstats.dev/api/card?username=novvyim&theme=tokyonight" alt="GitHub Stats"/>
-
-<img height="180" src="https://ghstats.dev/api/langs?username=novvyim&theme=tokyonight&layout=bar" alt="Top Languages"/>
-
 <!-- Streak (через github-readme-streak-stats - но с кэшированием) -->
 <img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub Streak"/>
 
