@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,docker,linux,nix,bash,vscode&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,docker,linux,nix,bash,vscode,lua,cpp,cs,dotnet,visualstudio,cmake,py,idea&theme=dark" alt="Tech Stack"/>
 
 </div>
 
