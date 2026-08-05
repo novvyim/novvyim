@@ -4,11 +4,6 @@
 
 # Веб-разработчица • UI-дизайнер • Linux-энтузиаст
 
-<p>
-  [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novlerus)
-  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/novvyim)
-</p>
-
 </div>
 
 ---
