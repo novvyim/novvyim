@@ -30,16 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=novvyim&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub Streak"/>
-
----
-
-<div align="center">
-
-### "Код — это то, что я пишу, дизайн — то, как это выглядит, продукт — то, как это работает."
-
 <img src="https://komarev.com/ghpvc/?username=novvyim&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
 
 </div>
